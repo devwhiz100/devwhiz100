@@ -24,7 +24,7 @@
 </p> -->
 
 #
-
+<br/>
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=italicodez&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂
+## LANGUAGES AND TOOLS
 
 ![footer](WEBP/footer.webp)
 

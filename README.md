@@ -14,7 +14,7 @@
 - 👯 Looking to collaborate on projects that challenge and innovate within the realm of web technologies.
 - 💬 Ask me anything about JavaScript—I'm here to help and share my expertise.
 - 🔭 Leading the charge in crafting impactful applications through expertise in full-stack JavaScript development.
-- 
+
 <br/>
 
 <!-- <p align="center">

@@ -35,8 +35,6 @@
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
-#
-
 <br/>
 
 ## 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂
